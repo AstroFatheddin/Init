@@ -1,2 +1,2 @@
 # Init
-Initial Roots Finder for Newton based algorithms
+Initial Roots Finder for algorithms based on Newton's method
